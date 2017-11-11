@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world!!! - changed from GitHub %@#$^@#^#");
+            Console.WriteLine("hello world!!!");
         }
     }
 }
